@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\bin\Debug\PA2.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\bin\Debug\PA2.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\bin\Debug\PA2.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\bin\Debug\PA2.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.Form1.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\bin\Debug\PA2.exe.manifest
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\bin\Debug\PA2.application
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.exe.manifest
+C:\Users\user\Downloads\Materi  Kuliah\Semester 5\Computer Graphics & Animation\PA2\PA2\obj\Debug\PA2.application
